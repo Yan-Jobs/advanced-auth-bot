@@ -1,0 +1,20 @@
+module.exports = {
+  load: '<YOUR EMOJI CODE>',
+  check: '<YOUR EMOJI CODE>',
+  error: '<YOUR EMOJI CODE>',
+  arrow: '<YOUR EMOJI CODE>',
+  author: '<YOUR EMOJI CODE>',
+  member: '<YOUR EMOJI CODE>',
+  date: '<YOUR EMOJI CODE>',
+  progress: '<YOUR EMOJI CODE>',
+  info: '<YOUR EMOJI CODE>',
+  partner: '<YOUR EMOJI CODE>',
+  mod: '<YOUR EMOJI CODE>',
+  hse: '<YOUR EMOJI CODE>',
+  bughunter: '<YOUR EMOJI CODE>',
+  bravery: '<YOUR EMOJI CODE>',
+  brilliance: '<YOUR EMOJI CODE>',
+  balance: '<YOUR EMOJI CODE>',
+  dev: '<YOUR EMOJI CODE>',
+  early: '<YOUR EMOJI CODE>'
+}
